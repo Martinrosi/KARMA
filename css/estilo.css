@@ -328,7 +328,7 @@ body .libros {
 
 body .libros ul {
   list-style-position: inside;
-  list-style-image: url(/img/descuento.png);
+  list-style-image: url(../img/descuento.png);
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
   text-align: center;
